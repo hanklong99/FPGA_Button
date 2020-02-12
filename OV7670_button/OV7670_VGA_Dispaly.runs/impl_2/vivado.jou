@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Mon Feb 10 19:34:15 2020
+# Process ID: 21936
+# Current directory: D:/fpga_test/y2_project/20200210/OV7670_hdmi_zybo_center_hu/OV7670_VGA_Dispaly.runs/impl_2
+# Command line: vivado.exe -log ov7670_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ov7670_top.tcl -notrace
+# Log file: D:/fpga_test/y2_project/20200210/OV7670_hdmi_zybo_center_hu/OV7670_VGA_Dispaly.runs/impl_2/ov7670_top.vdi
+# Journal file: D:/fpga_test/y2_project/20200210/OV7670_hdmi_zybo_center_hu/OV7670_VGA_Dispaly.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source ov7670_top.tcl -notrace

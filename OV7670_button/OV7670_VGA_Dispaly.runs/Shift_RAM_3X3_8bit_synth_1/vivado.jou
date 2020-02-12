@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Sat Feb  1 00:07:36 2020
+# Process ID: 8932
+# Current directory: D:/fpga_test/y2_project/20200201/ZYNQ_OV7670_hdmi_Dispaly_zybo/OV7670_VGA_Dispaly.runs/Shift_RAM_3X3_8bit_synth_1
+# Command line: vivado.exe -log Shift_RAM_3X3_8bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Shift_RAM_3X3_8bit.tcl
+# Log file: D:/fpga_test/y2_project/20200201/ZYNQ_OV7670_hdmi_Dispaly_zybo/OV7670_VGA_Dispaly.runs/Shift_RAM_3X3_8bit_synth_1/Shift_RAM_3X3_8bit.vds
+# Journal file: D:/fpga_test/y2_project/20200201/ZYNQ_OV7670_hdmi_Dispaly_zybo/OV7670_VGA_Dispaly.runs/Shift_RAM_3X3_8bit_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Shift_RAM_3X3_8bit.tcl -notrace
